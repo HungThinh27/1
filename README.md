@@ -7,6 +7,4 @@ Dataset: https://www.kaggle.com/datasets/ashishjangra27/gender-recognition-200k-
 
 Code on Kaggle: https://www.kaggle.com/hongtrung/code
 
-To run on CMD: python demo_on_opencv_camera.py best_weight_model_vgg16.h5
-
 ![download](https://user-images.githubusercontent.com/89728046/200138704-05cfc1ed-6dd8-4418-a802-0726652bb10e.png)
